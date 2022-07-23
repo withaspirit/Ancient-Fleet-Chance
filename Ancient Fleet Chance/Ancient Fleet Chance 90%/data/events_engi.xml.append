@@ -1,0 +1,23 @@
+<!-- 18:1:1 Ancient:Mantis:Engi -->
+<mod:findName type="eventList" name="HARMONY_LINK_EVENTS">
+  <mod-append:event load="HARMONY_LINK_ANCIENT"/>
+  <mod-append:event load="HARMONY_LINK_ANCIENT"/>
+  <mod-append:event load="HARMONY_LINK_ANCIENT"/>
+  <mod-append:event load="HARMONY_LINK_ANCIENT"/>
+  <mod-append:event load="HARMONY_LINK_ANCIENT"/>
+
+  <mod-append:event load="HARMONY_LINK_ANCIENT"/>
+  <mod-append:event load="HARMONY_LINK_ANCIENT"/>
+  <mod-append:event load="HARMONY_LINK_ANCIENT"/>
+  <mod-append:event load="HARMONY_LINK_ANCIENT"/>
+  <mod-append:event load="HARMONY_LINK_ANCIENT"/>
+
+  <mod-append:event load="HARMONY_LINK_ANCIENT"/>
+  <mod-append:event load="HARMONY_LINK_ANCIENT"/>
+  <mod-append:event load="HARMONY_LINK_ANCIENT"/>
+  <mod-append:event load="HARMONY_LINK_ANCIENT"/>
+  <mod-append:event load="HARMONY_LINK_ANCIENT"/>
+
+  <mod-append:event load="HARMONY_LINK_ANCIENT"/>
+  <mod-append:event load="HARMONY_LINK_ANCIENT"/>
+</mod:findName>
