@@ -1,6 +1,6 @@
-# More Ancient Fleet &middot; <img src="https://img.shields.io/badge/semver-1.0.0-blue">
+# Ancient Fleet Chance &middot; <img src="https://img.shields.io/badge/semver-1.0.0-blue">
 
-More Ancient Fleet is a mod for [FTL: Multiverse](https://subsetgames.com/forum/viewtopic.php?f=11&t=35332) that increases the chance of [encountering an Ancient Fleet at a Harmony Link](https://ftlmultiverse.fandom.com/wiki/Harmony_Link#Ancient_Fleet) from 33% to 50%.
+Ancient Fleet Chance is a mod for [FTL: Multiverse](https://subsetgames.com/forum/viewtopic.php?f=11&t=35332) that increases the chance of [encountering an Ancient Fleet at a Harmony Link](https://ftlmultiverse.fandom.com/wiki/Harmony_Link#Ancient_Fleet).
 
 In [FTL: Multiverse](https://subsetgames.com/forum/viewtopic.php?f=11&t=35332) 5.0+, the Ancient Fleet event allows the player to begin the [Ancient Questline](https://ftlmultiverse.fandom.com/wiki/Ancient_Questline). Increasing the Ancient Fleet encounter chance allows the player to start the Ancient Questline more often.
 
