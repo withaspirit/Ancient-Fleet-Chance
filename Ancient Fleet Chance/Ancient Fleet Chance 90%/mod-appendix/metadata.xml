@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+	<title><![CDATA[ Ancient Fleet Chance ]]></title>
+
+	<threadUrl><![CDATA[ https://github.com/cyberphoria/Ancient-Fleet-Chance ]]></threadUrl>
+
+	<author><![CDATA[ cyberphoria ]]></author>
+  
+	<version><![CDATA[ 1.0.0 ]]></version>
+
+	<description>
+<![CDATA[
+Ancient Fleet Chance increases the chance of encountering an Ancient Fleet at a Harmony Link.
+
+Requirements:
+- FTL: Multiverse 5.0+
+- Load order: should go after FTL: Multiverse
+- Will conflict with mods that modify the eventList for HARMONY_LINK_EVENTS and HARMONY_LINK_SEP_EVENTS
+]]>
+	</description>
+</metadata>

@@ -1,0 +1,10 @@
+<mod:findName type="eventList" name="HARMONY_LINK_SEP_EVENTS">
+    <mod:findLike type="event">
+      <mod:selector load="HARMONY_LINK_FIGHTMANTIS" />
+        <mod:removeTag/>
+    </mod:findLike>
+    <mod:findLike type="event">
+      <mod:selector load="HARMONY_LINK_FIGHTENGI" />
+        <mod:removeTag/>
+    </mod:findLike>
+</mod:findName>
