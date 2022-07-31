@@ -4,7 +4,7 @@
         <mod:removeTag/>
     </mod:findLike>
     <mod:findLike type="event">
-      <mod:selector load="HARMONY_LINK_FIGHTENGI" />
+      <mod:selector load="HARMONY_LINK_SEPARATIST" />
         <mod:removeTag/>
     </mod:findLike>
 </mod:findName>
