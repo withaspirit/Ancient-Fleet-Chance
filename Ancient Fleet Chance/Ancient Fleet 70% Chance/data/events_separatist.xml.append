@@ -18,6 +18,6 @@
 
   <mod-append:event load="HARMONY_LINK_FIGHTMANTIS"/>
   <mod-append:event load="HARMONY_LINK_FIGHTMANTIS"/>
-  <mod-append:event load="HARMONY_LINK_FIGHTENGI"/>
-  <mod-append:event load="HARMONY_LINK_FIGHTENGI"/>
+  <mod-append:event load="HARMONY_LINK_SEPARATIST"/>
+  <mod-append:event load="HARMONY_LINK_SEPARATIST"/>
 </mod:findName>
